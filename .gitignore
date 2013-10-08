@@ -4,3 +4,9 @@
 *.jar
 *.war
 *.ear
+/target
+/aopApplication.log
+/.classpath
+/.settings
+/.project
+/.springBeans
